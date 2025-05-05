@@ -28,7 +28,7 @@ Aplicação simples para gerenciar tarefas com back-end e front-end.
 ### Back-end
 - Baixe o arquivo `projetoapi.zip` disponível na pasta back-end do repositório.
 - Extraia o arquivo.
-- Abra o Eclipse ou IDE Java e importe a pasta resultante da extração: `projetoapi`.
+- Abra o Eclipse ou IDE Java e importe como *Maven Project* a pasta resultante da extração: `projetoapi`.
 - Você verá o projeto java com as classes desenvolvidas com dependências do Springboot.
 - Execute o código para que o Spring se conecte com o banco.
 - Baixe e abra o Postman.
